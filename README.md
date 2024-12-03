@@ -1,3 +1,2 @@
-# Be-Christmas
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Aakeshhappy/Be-Christmas)
+# Be7School
+The Be7School official website github repository.
